@@ -132,7 +132,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	background-color: #1163aa;
-	border-color: #8eb640;
+	border-color: white;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
@@ -222,7 +222,7 @@ header .intro-text {
 
 /* About Section */
 #about {
-	padding: 120px 0;
+	padding: 60px 0;
 }
 #about h3 {
 	font-size: 20px;
@@ -242,7 +242,6 @@ header .intro-text {
 	right: 8px;
 	bottom: 8px;
 	left: 8px;
-	border: 1px solid rgba(255, 255, 255, 0.5);
 }
 #about p {
 	line-height: 24px;
