@@ -445,7 +445,8 @@ ol.type li a:hover {
 	color: #fff;
 }
 #team hr {
-	background: #fff;
+	background: #8eb640;
+	margin-bottom: 12px;
 }
 #team h3 {
 	color: #fff;
