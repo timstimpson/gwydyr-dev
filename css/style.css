@@ -437,7 +437,7 @@ ol.type li a:hover {
     }
 }
 #team .overlay {
-	padding: 120px 0 80px 0;
+	padding: 60px 0 60px 0;
 	background: rgba(0, 0, 0, 0.6);
 }
 #team h2, #team p {
@@ -472,7 +472,6 @@ ol.type li a:hover {
 	right: 8px;
 	bottom: 8px;
 	left: 8px;
-	border: 1px solid rgba(255, 255, 255, 0.2);
 }
 #team .thumbnail .caption {
 	padding-top: 10px;
