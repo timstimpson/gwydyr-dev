@@ -676,3 +676,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 .testimonals hr {
 	margin: 20px auto;
 }
+
+#portfolio p {
+	justify-content: center;
+	text-align: center;
+	font-style: italic;
+	font-weight: 500;
+}
