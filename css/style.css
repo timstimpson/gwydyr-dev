@@ -132,7 +132,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	background-color: #1163aa;
-	border-color: white;
+	border-color: gray;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
