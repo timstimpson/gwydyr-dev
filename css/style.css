@@ -306,7 +306,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
-	padding: 0 0 120px 0;
+	padding: 0 0 60px 0;
 }
 #portfolio .section-title {
 	background: #444 url(../img/main-gwydyr.jpg) center center no-repeat fixed;
@@ -657,4 +657,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	margin: auto;
 	width:30%;
 	text-align: center;
+}
+
+.testimonals {
+	font-weight: 500;
+	padding: 20px;
+	justify-content: center;
+	text-align: center;
+}
+
+.testimonals p {
+	font-size: 18px;
+}
+
+.testimonals hr {
+	margin: 20px auto;
 }
