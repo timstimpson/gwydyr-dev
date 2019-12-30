@@ -249,7 +249,7 @@ header .intro-text hr {
 }
 /* Menu Section */
 #restaurant-menu {
-	padding: 0 0 60px 0;
+	padding: 0 0 0 0;
 }
 #restaurant-menu .section-title {
 	background: #444 url(../img/main-gwydyr.jpg) center center no-repeat fixed;
