@@ -630,7 +630,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 .prices, .opening-hours {
 	margin: 20px;
 	font-weight: 400;
-	text-align: center;
-	font-size: 12px;
 	justify-content: center;
+	font-size: 18px;
 }
