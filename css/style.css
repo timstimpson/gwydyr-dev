@@ -210,9 +210,10 @@ header .intro-text {
 	text-align: center;
 }
 
-header .intro-text hr {
+.intro hr {
 	position: static;
 	align: center;
+	color: red;
 }
 
 /*header .intro-text p {
@@ -641,5 +642,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 
 .align-center {
 	justify-content: center;
+	text-align: center;
+}
+
+.intro-hr {
+	margin: auto;
+	width:30%;
 	text-align: center;
 }
