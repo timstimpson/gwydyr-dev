@@ -255,6 +255,9 @@ header .intro-text {
 #restaurant-menu .section-title {
 	background: #444 url(../img/main-gwydyr.jpg) center center no-repeat fixed;
 	background-size: cover;
+    @media (max-width: @iphone-screen) {
+        background-attachment: scroll;
+    }
 }
 #restaurant-menu .section-title h2 {
 	color: #fff;
@@ -308,6 +311,9 @@ header .intro-text {
 #portfolio .section-title {
 	background: #444 url(../img/main-gwydyr.jpg) center center no-repeat fixed;
 	background-size: cover;
+    @media (max-width: @iphone-screen) {
+        background-attachment: scroll;
+    }
 }
 #portfolio .section-title h2 {
 	color: #fff;
@@ -427,6 +433,9 @@ ol.type li a:hover {
 	color: #fff;
 	background: #444 url(../img/main-gwydyr.jpg) center top no-repeat fixed;
 	background-size: cover;
+    @media (max-width: @iphone-screen) {
+        background-attachment: scroll;
+    }
 }
 #team .overlay {
 	padding: 120px 0 80px 0;
