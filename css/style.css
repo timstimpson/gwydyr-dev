@@ -667,6 +667,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 .price {
 	display: inline-block;
 	width: 20%;
+	justify-content: center;
+	text-align: center;
 }
 
 .day {
