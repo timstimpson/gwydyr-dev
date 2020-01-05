@@ -739,3 +739,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	font-style: italic;
 	font-weight: 500;
 }
+
+.highlighted {
+	font-weight: 550;
+}
