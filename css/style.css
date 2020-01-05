@@ -671,13 +671,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 
 .day {
 	display: inline-block;
-	width: 50%;
+	width: 40%;
 
 }
 
 .hours {
 	display: inline-block;
-	width: 50%;
+	width: 60%;
 	justify-content: center;
 	text-align: right;
 }
