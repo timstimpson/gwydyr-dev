@@ -102,7 +102,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-family: 'sans-serif';
 	font-size: 36px;
 	color: #1163aa;
-	font-weight: 700;
+	font-weight: 901;
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a {
@@ -208,6 +208,10 @@ header .intro-text {
 	padding-top: 250px;
 	padding-bottom: 250px;
 	text-align: center;
+}
+
+header .intro-text p {
+	font-weight: 500;
 }
 
 .intro hr {
