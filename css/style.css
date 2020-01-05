@@ -653,10 +653,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	font-size: 20px;
 }
 
-/*.opening-hours span {
+.opening-hours span {
 	display: inline-block;
 	width: 50%;
-}*/
+}
 
 .service {
 	display: inline-block;
@@ -677,9 +677,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 
 .hours {
 	display: inline-block;
-	width: 60%;
+	width: 50%;
 	justify-content: center;
 	text-align: right;
+}
+
+.opening-hours span {
+	display: inline-block;
+	width: 50%;
 }
 
 /*.align-center {
