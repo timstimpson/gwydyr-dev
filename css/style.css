@@ -660,18 +660,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 
 .service {
 	display: inline-block;
-	width: 70%;
+	width: 80%;
 
 }
 
 .price {
 	display: inline-block;
-	width: 30%;
+	width: 20%;
 }
 
 .align-center {
 	justify-content: center;
-	text-align: center;
+	text-align: left;
 }
 
 .intro-hr {
