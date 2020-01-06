@@ -240,6 +240,10 @@ header .intro-text p {
 	margin-top: 15px;
 }
 
+#about .about-text a {
+	color: rgb(119, 119, 119);
+}
+
 #about .about-img {
 	display: inline-block;
 	position: relative;
