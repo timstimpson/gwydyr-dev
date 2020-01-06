@@ -267,7 +267,7 @@ header .intro-text p {
 	display: inline-block;
 	height: 100%;
 	text-align: center;
-	padding: 7% 0% 3% 0%;
+	padding: 7% 0% 0% 0%;
 	display: table-cell;
     vertical-align: middle;
 }
@@ -754,5 +754,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 }
 
 .about-text-chairs {
-	padding: 7% 0% 3% 0%;
+	padding: 10% 0% 3% 0%;
 }
