@@ -236,7 +236,7 @@ header .intro-text p {
 	font-size: 20px;
 }
 
-#about .about-text h2{
+#about .about-text h2 {
 	margin-top: 15px;
 }
 
@@ -270,6 +270,11 @@ header .intro-text p {
 	padding: 7% 0% 3% 0%;
 	display: table-cell;
     vertical-align: middle;
+}
+
+.about-img-container-chairs {
+	text-align: center;
+	padding: 1% 0% 3% 0%;
 }
 /* Menu Section */
 #restaurant-menu {
@@ -746,4 +751,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 
 .highlighted {
 	font-weight: 510;
+}
+
+.about-text-chairs {
+	padding-top: 30px;
 }
