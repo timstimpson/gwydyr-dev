@@ -3,10 +3,11 @@ function main() {
 
 (function () {
    'use strict';
-   
-    // document.addEventListener("DOMContentLoaded", function(event){
-    //   $("#loader").css({"display": "none"});
-    // });
+    document.onreadystatechange = () => {
+      if (document.readyState === 'complete') {
+        document.getElementById("loader").style.display = "none"
+      }
+    };
 
 }());
 
