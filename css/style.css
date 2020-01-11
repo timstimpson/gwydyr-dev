@@ -95,14 +95,15 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	transition: all 0.8s;
 }
 #menu.navbar-default {
-	background-color: rgba(1, 1, 1, 0.4);
+	background-color: rgba(1, 1, 1, 0.2);
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-family: 'sans-serif';
-	font-size: 36px;
-	color: #1163aa;
-	font-weight: 901;
+	font-family: 'Palatino';
+	font-size: 38px;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-weight: 700;
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a {
@@ -186,7 +187,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.5);
 }
 .intro h1 {
-	font-family: 'sans-serif';
+	font-family: 'Palatino';
 	color: #fff;
 	font-size: 6em;
 	font-weight: 700;
