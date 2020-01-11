@@ -803,6 +803,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
   background: #fff;
   margin: -4px 0 0 -4px;
   background-color: #1163aa;
+  background-color: red;
 }
 .lds-roller div:nth-child(1) {
   animation-delay: -0.036s;
