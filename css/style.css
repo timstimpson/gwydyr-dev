@@ -773,7 +773,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	width: 100%;
 	height: 100%;
 	z-index: 1000000;
-	background-color: grey;
+	background-color: white;
 	opacity: 1;
 	justify-content: center;
 	text-align: center;
@@ -800,6 +800,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
   border-radius: 50%;
   background: #fff;
   margin: -4px 0 0 -4px;
+  background-color: #1163aa;
 }
 .lds-roller div:nth-child(1) {
   animation-delay: -0.036s;

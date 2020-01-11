@@ -75,11 +75,6 @@ function main() {
             effect: 'slideDown',  
             keyboardNav: true,                            
         });
-
-    document.addEventListener("DOMContentLoaded", function(event){
-      $("#loader").css({"display": "none"});
-    });
-
 }());
 
 
