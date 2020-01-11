@@ -777,21 +777,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	opacity: 1;
 	justify-content: center;
 	text-align: center;
-	padding-top: 300px;
+	padding-top: 280px;
 }
 .lds-ellipsis {
 	display: inline-block;
 	position: relative;
-	width: 240px;
+	width: 360px;
 	height: 80px;
 }
 .lds-ellipsis div {
-	font-size: 48px;
 	display: inline-block;
 	background: #fff;
 	animation-timing-function: cubic-bezier(0, 1, 1, 0);
 	color: #1163aa;
-	font-weight: 525;
+	font-size: 6em;
+	font-weight: 700;
 	font-family: 'Palatino';
 }
 .lds-ellipsis div:nth-child(1) {
