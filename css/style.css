@@ -783,8 +783,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 .lds-roller {
   display: inline-block;
   position: relative;
-  width: 10%;
-  height: 10%;
+  width: 20px;
+  height: 20px;
 }
 
 .lds-roller div {
