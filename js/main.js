@@ -76,6 +76,10 @@ function main() {
             keyboardNav: true,                            
         });
 
+    document.addEventListener("DOMContentLoaded", function(event){
+      $("#loader").css({"display": "none"});
+    });
+
 }());
 
 
