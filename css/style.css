@@ -777,14 +777,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	opacity: 1;
 	justify-content: center;
 	text-align: center;
-	padding-top: 40%;
+	padding-top: 45%;
 }
 
 .lds-roller {
   display: inline-block;
   position: relative;
-  width: 80px;
-  height: 80px;
+  width: 10%;
+  height: 10%;
 }
 
 .lds-roller div {
