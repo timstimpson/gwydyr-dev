@@ -667,7 +667,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	color: #f6f6f6;
 }
 #footer a:hover {
-	color: #333;
+/*	color: white;*/
+	text-decoration: underline;
 }
 
 .prices, .opening-hours {
