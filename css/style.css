@@ -495,12 +495,12 @@ ol.type li a:hover {
 	height: 500px;
 }
 
-@media (max-width: 1200px) {
+/*@media (max-width: 1200px) {
 	#team img {
 		width: 400px;
 		height: 400px;
 	}
-}
+}*/
 
 @media (max-width: 768px) {
 	#team img {
