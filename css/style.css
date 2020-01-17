@@ -475,7 +475,7 @@ ol.type li a:hover {
 }
 #team .overlay {
 	padding: 60px 0 60px 0;
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(0, 0, 0, 0.7);
 }
 #team h2, #team p {
 	color: #fff;
@@ -504,10 +504,19 @@ ol.type li a:hover {
 
 @media (max-width: 768px) {
 	#team img {
-		width: 370px;
-		height: 370px;
+		width: 400px;
+		height: 400px;
 	}
 }
+
+
+@media (max-width: 375px) {
+	#team img {
+		width: 390px;
+		height: 390px;
+	}
+}
+
 #team .thumbnail {
 	background: transparent;
 	border: 0;
