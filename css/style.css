@@ -95,7 +95,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	transition: all 0.8s;
 }
 #menu.navbar-default {
-	background-color: rgba(1, 1, 1, 0.2);
+	background-color: rgba(1, 1, 1, 0.4);
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
@@ -258,6 +258,13 @@ header .intro-text p {
 	bottom: 8px;
 	left: 8px;
 }
+
+@media (max-width: 768px) {
+	.about-img img {
+		width: 440px;
+	}
+}
+
 #about p {
 	line-height: 24px;
 	margin: 15px 0 30px;
@@ -468,7 +475,7 @@ ol.type li a:hover {
 }
 #team .overlay {
 	padding: 60px 0 60px 0;
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.8);
 }
 #team h2, #team p {
 	color: #fff;
@@ -484,7 +491,22 @@ ol.type li a:hover {
 	margin: 5px 0;
 }
 #team img {
-	width: 280px;
+	width: 500px;
+	height: 500px;
+}
+
+@media (max-width: 1200px) {
+	#team img {
+		width: 400px;
+		height: 400px;
+	}
+}
+
+@media (max-width: 768px) {
+	#team img {
+		width: 400px;
+		height: 400px;
+	}
 }
 #team .thumbnail {
 	background: transparent;
@@ -493,6 +515,9 @@ ol.type li a:hover {
 #team .thumbnail .team-img {
 	display: inline-block;
 	position: relative;
+/*	outline: 1px solid white;
+	outline-offset: 20px;*/
+	margin-bottom: 40px;
 }
 #team .thumbnail .team-img:before {
 	display: block;
