@@ -504,18 +504,18 @@ ol.type li a:hover {
 
 @media (max-width: 768px) {
 	#team img {
-		width: 400px;
-		height: 400px;
+		width: 380px;
+		height: 380px;
 	}
 }
 
 
-@media (max-width: 375px) {
+/*@media (max-width: 375px) {
 	#team img {
 		width: 390px;
 		height: 390px;
 	}
-}
+}*/
 
 #team .thumbnail {
 	background: transparent;
