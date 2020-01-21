@@ -245,12 +245,17 @@ header .intro-text p {
 	color: rgb(119, 119, 119);
 }
 
-#about .about-img {
+#about .about-img img {
 	display: inline-block;
 	position: relative;
   	box-shadow: 2px 2px 6px #292929;
+ 	width: 90%;
+	margin: 0 5%;
 }
-#about .about-img:before {
+
+/*#about .about-img:before {
+	width: 200%;
+	padding: 0;
 	display: block;
 	content: '';
 	position: absolute;
@@ -258,13 +263,13 @@ header .intro-text p {
 	right: 8px;
 	bottom: 8px;
 	left: 8px;
-}
+}*/
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
 	.about-img img {
 		width: 440px;
 	}
-}
+}*/
 
 #about p {
 	line-height: 24px;
