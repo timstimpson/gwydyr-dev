@@ -1,5 +1,4 @@
-Sitemap: http://www.gwydyr-barbers.com/sitemap.xml
-
 User-agent: *
 Disallow:
+Sitemap: http://www.gwydyr-barbers.com/sitemap.xml
 
